@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbhinavDevelops
-- 👀 I’m interested in using genetic algorithms to classify trivial subjectivties. 
+- 👀 I’m interested in using genetic algorithms to classify solutions to my taste
 - 🌱 I’m currently learning c++ and a lot of math for the above ^^
 - 💞️ I’m looking to collaborate on a tool that selects the appropriate ml model depending on the characteristics of your data set.
 - 📫 How to reach me: abhinav.rajaram02@gmail.com
