@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on a tool that selects the appropriate ml model depending on the characteristics of your data set.
 - 📫 How to reach me: abhinav.rajaram02@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I hate valorant :)
 
 <!---
 AbhinavDevelops/AbhinavDevelops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
